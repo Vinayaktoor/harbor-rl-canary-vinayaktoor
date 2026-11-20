@@ -2,7 +2,7 @@
 
 ## 1. Loom Walkthrough Video
 
-- **Video URL:** [Watch 5-Minute Walkthrough](https://www.loom.com/share/YOUR_VIDEO_ID)
+- **Video URL:** [Watch 5-Minute Walkthrough](https://www.loom.com/share/9eb11088f026405da6d88bef6d94e60f)
   *(Link sharing: "Anyone with the link can view")*
 
 ## 2. Task & Calibration Summary

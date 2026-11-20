@@ -1,0 +1,47 @@
+{
+    "schema_version": 1,
+    "id": "fc74e3d4-f7a2-4a30-85ab-f8b6032a6d67",
+    "started_at": "2026-11-20T19:26:42.795424",
+    "updated_at": "2026-11-20T19:40:35.229525",
+    "finished_at": "2026-11-20T19:40:35.229525",
+    "n_total_trials": 3,
+    "stats": {
+        "n_completed_trials": 3,
+        "n_errored_trials": 1,
+        "n_running_trials": 0,
+        "n_pending_trials": 0,
+        "n_cancelled_trials": 0,
+        "n_retries": 9,
+        "evals": {
+            "terminus-2__openai/gpt-oss-120b__adhoc": {
+                "n_trials": 2,
+                "n_errors": 1,
+                "metrics": [
+                    {
+                        "mean": 1.0
+                    }
+                ],
+                "pass_at_k": {
+                    "2": 1.0
+                },
+                "reward_stats": {
+                    "reward": {
+                        "1.0": [
+                            "reconcile-bug__3EpRCva",
+                            "reconcile-bug__iL3eS7c"
+                        ]
+                    }
+                },
+                "exception_stats": {
+                    "RateLimitError": [
+                        "reconcile-bug__7S4JcCx"
+                    ]
+                }
+            }
+        },
+        "n_input_tokens": 24347,
+        "n_cache_tokens": 7680,
+        "n_output_tokens": 8063,
+        "cost_usd": 0.00791385
+    }
+}

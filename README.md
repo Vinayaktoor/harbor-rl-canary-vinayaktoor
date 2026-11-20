@@ -1,4 +1,4 @@
-# Harbor RL Submission — <Your Name> (@your-github-username)
+# Harbor RL Submission — vinayak toor
 
 ## 1. Loom Walkthrough Video
 
